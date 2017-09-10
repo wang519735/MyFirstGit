@@ -14,6 +14,8 @@ public class FirstServlet extends HttpServlet {
 	public void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
 		System.out.println("11111111111");
+		System.out.println("2222222");
+		
 	}
 
 }
